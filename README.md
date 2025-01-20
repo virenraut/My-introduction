@@ -32,8 +32,12 @@ Developed a web-based application to efficiently track and manage the distributi
 - Data Science 101  
 - Data Science Tools  
 - Data Science Methodology  
-- AWS Academy Graduate: Introduction to Cloud Semester 1  
+- AWS Academy Graduate: Introduction to Cloud Semester 1  \
 
+##Credly
+
+- https://www.credly.com/users/viren-raut
+  
 ## 🏆 Achievements
 
 - **All Rounder** in B.Tech/B.E., Diploma, and School  
