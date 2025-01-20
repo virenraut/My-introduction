@@ -54,6 +54,7 @@ Developed a web-based application to efficiently track and manage the distributi
 - **Email**: virenraut887@gmail.com  
 - **Phone**: +91-8433883373  
 - **LinkedIn**: [Viren Raut](https://www.linkedin.com/in/viren-raut-456250320/)
+- **Tableau**: [https://public.tableau.com/app/profile/viren.raut/vizzes]
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities.
 ```
