@@ -52,5 +52,3 @@ Developed a web-based application to efficiently track and manage the distributi
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities.
 ```
-
-Let me know if you'd like to add or modify any sections!
