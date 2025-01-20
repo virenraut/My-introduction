@@ -1,4 +1,3 @@
-```
 # Hi there! 👋 I'm Viren Raut
 
 Welcome to my GitHub profile! I'm a passionate AI & ML graduate engineer with a knack for solving real-world problems through data analysis and machine learning techniques. This repository serves as a brief introduction to my journey, skills, and interests. 🚀
