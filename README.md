@@ -1,3 +1,4 @@
+```
 # Hi there! 👋 I'm Viren Raut
 
 Welcome to my GitHub profile! I'm a passionate AI & ML graduate engineer with a knack for solving real-world problems through data analysis and machine learning techniques. This repository serves as a brief introduction to my journey, skills, and interests. 🚀
@@ -6,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate AI & ML graduate engineer with a 
 
 - 🎓 **Education**: 
   - **B.Tech/B.E. in Artificial Intelligence and Machine Learning**  
-    Universal College of Engineering, Thane (Score: 58.1%)  
+    Universal College of Engineering, Thane  
   - **Diploma in Engineering**  
-    Pravin Patil College of Diploma Engineering and Technology, Mira Bhayandar (Score: 81.77%)
+    Pravin Patil College of Diploma Engineering and Technology, Mira Bhayandar 
 - 📍 **Current Location**: Mumbai, India
 - 🌱 **Aspiration**: To contribute to data-driven decision-making as a Data Analyst.
 
@@ -49,6 +50,7 @@ Developed a web-based application to efficiently track and manage the distributi
 
 - **Email**: virenraut887@gmail.com  
 - **Phone**: +91-8433883373  
+- **LinkedIn**: [Viren Raut](https://www.linkedin.com/in/viren-raut-456250320/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities.
 ```
