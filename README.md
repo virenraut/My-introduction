@@ -1,60 +1,90 @@
-# Hi there! 👋 I'm Viren Raut
+<h1 align="center">👋 Hi, I'm Viren Raut!</h1>
+<p align="center">
+  🎓 AI & ML Engineer | 📊 Data Analyst | 📈 Dashboard Developer  
+</p>
+<p align="center">
+  📍 Mumbai, India • 📧 virenraut887@gmail.com • 📞 +91 8433883373  
+  <br>
+  🔗 <a href="https://www.linkedin.com/in/viren-raut">LinkedIn Profile</a>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate AI & ML graduate engineer with a knack for solving real-world problems through data analysis and machine learning techniques. This repository serves as a brief introduction to my journey, skills, and interests. 🚀
+---
 
-## 🌟 About Me
+## 🧠 About Me
 
-- 🎓 **Education**: 
-  - **B.Tech/B.E. in Artificial Intelligence and Machine Learning**  
-    Universal College of Engineering, Thane  
-  - **Diploma in Engineering**  
-    Pravin Patil College of Diploma Engineering and Technology, Mira Bhayandar 
-- 📍 **Current Location**: Mumbai, India
-- 🌱 **Aspiration**: To contribute to data-driven decision-making as a Data Analyst.
+I'm an enthusiastic and motivated **Artificial Intelligence & Machine Learning Engineer** with a strong foundation in **data analysis, predictive modeling, and statistical algorithms**.
 
-## 🛠️ Skills
+🔍 I enjoy solving real-world problems through innovative and data-driven solutions.  
+📊 Passionate about making complex data **meaningful and accessible** via visual storytelling.  
+🚀 Always eager to explore **emerging tech, optimize systems**, and grow in a collaborative environment.
 
-- **Programming**: Python, Data Structures, and Algorithms  
-- **Databases**: MySQL  
-- **Core Strengths**: Problem Solving, Debugging, Critical Thinking  
-- **Soft Skills**: Communication, Teamwork, Adaptability, Time Management  
+---
 
-## 🗂️ Projects
+## 🛠️ Tech Stack
 
-### Tracking & Distribution of PPE Kit  
-*Duration: July 2020 - October 2020*  
-Developed a web-based application to efficiently track and manage the distribution of PPE kits.  
-**Technologies**: HTML, PHP, MySQL  
+### 🧩 Languages & Tools
+`Python` | `SQL` | `Power BI` | `Tableau` | `MySQL` | `PHP` | `HTML`
 
-## 📜 Certifications
+### 🧠 Core Expertise
+`Machine Learning` | `Deep Learning` | `Artificial Intelligence` | `Data Visualization` | `Cloud (AWS)`
 
-- Learn to Code with Python  
-- Data Science 101  
-- Data Science Tools  
-- Data Science Methodology  
-- AWS Academy Graduate: Introduction to Cloud Semester 1  \
+### 🧠 Soft Skills
+`Teamwork` | `Communication` | `Leadership` | `Strategic Thinking`
 
-##Credly
+---
 
-- https://www.credly.com/users/viren-raut
-  
-## 🏆 Achievements
+## 💼 Featured Projects
 
-- **All Rounder** in B.Tech/B.E., Diploma, and School  
-- Awarded for **C Debugging** and **Quiz Competitions**
+### 🟢 **Fruit Ripeness Detection** *(2023–2024)*
+- Improved prediction accuracy by **40%** using ML models  
+- Deployed a web app impacting **500+ farmers**
 
-## 🌐 Languages
+### 🟢 **Diet Recommendation System** *(2022–2023)*
+- Analyzed **15,000+ user profiles**  
+- Achieved **90% satisfaction rate** through tailored diet suggestions
 
-- **English**: Proficient  
-- **Marathi**: Proficient  
-- **Hindi**: Proficient  
+### 🟢 **PPE Kit Distribution Tracker** *(2020–2021)*
+- Developed web app for **inventory management**  
+- Reduced waste and improved distribution across **500+ stakeholders**
 
-## 📬 Let's Connect!
+### 📊 **Power BI Dashboards**
+- **Netflix Dashboard**: Analyzed **15K+ shows**, influenced **40% audience growth**
+- **Executive Summary**: Uncovered **$326K profit** via sales analytics  
+- **Office Supplies Report**: Boosted **30% sales** by identifying top-selling regions  
 
-- **Email**: virenraut887@gmail.com  
-- **Phone**: +91-8433883373  
-- **LinkedIn**: [Viren Raut](https://www.linkedin.com/in/viren-raut-456250320/)
-- **Tableau**: [https://public.tableau.com/app/profile/viren.raut/vizzes]
+---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities.
-```
+## 🎓 Education
+
+🎓 **B.E. in AI & ML**, University of Mumbai — *Expected Jul 2024*  
+🎓 **Diploma in Computer Engineering**, MSBTE — *Aug 2021*
+
+---
+
+## 🏅 Certifications
+
+✅ Learn To Code With Python  
+✅ Data Science 101  
+✅ AWS Academy Graduate – Introduction to Cloud  
+✅ Data Science Tools & Methodology  
+
+---
+
+## 🌱 Currently Exploring
+
+- 🌐 Generative AI & LLMs  
+- ☁️ Cloud-Based Deployment (AWS, Azure)  
+- 📊 Advanced Power BI Interactivity  
+
+---
+
+## 📫 Let’s Connect!
+
+I’d love to chat about tech, AI, or your next big project 🚀  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/viren-raut)  
+📧 Email: virenraut887@gmail.com
+
+---
+
+<p align="center"><em>Thank you for visiting my profile! 🙌</em></p>
