@@ -72,8 +72,19 @@ I'm an enthusiastic and motivated **Artificial Intelligence & Machine Learning E
 
 ## 🏆 Credly Badges
 
-🧾 Check out my verified certifications on Credly:  
-🔗 <a href="https://www.credly.com/users/viren-raut" target="_blank"><img src="https://images.credly.com/images/24cc1c53-d458-4f5e-9a25-018df7d9c251/Credly_Badge.png" width="25"/> View My Badges</a>
+<p align="center">
+  <a href="https://www.credly.com/users/viren-raut" target="_blank">
+    <img src="https://images.credly.com/images/24cc1c53-d458-4f5e-9a25-018df7d9c251/Credly_Badge.png" width="80" alt="Credly Badge Icon"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📜 Explore all my verified credentials on Credly</strong><br>
+  <a href="https://www.credly.com/users/viren-raut" target="_blank">
+    🔗 www.credly.com/users/viren-raut
+  </a>
+</p>
+
 
 ---
 
