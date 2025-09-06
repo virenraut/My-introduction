@@ -88,7 +88,7 @@ I'm always open to discussing data analytics, machine learning, or potential col
 **📧 Email:** virenraut887@gmail.com  
 **📱 Phone:** +91 84338 83373  
 **💼 LinkedIn:** [linkedin.com/in/virenraut](https://linkedin.com/in/virenraut)  
-**🌐 Portfolio:** [MyPortfolio]((https://virenrautportfolio.lovable.app/))  
+**🌐 Portfolio:** [MyPortfolio](https://virenrautportfolio.lovable.app/)  
 **💻 GitHub:** You're already here! Feel free to explore my repositories
 
 ---
