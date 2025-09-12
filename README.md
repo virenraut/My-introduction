@@ -1,97 +1,112 @@
 # Hi there, I'm Viren Raut! 👋
 
-## About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Data+Science+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</div>
 
-I'm a passionate **AI & Machine Learning Engineer** from Mumbai, India, with a strong background in data analytics and artificial intelligence. I recently graduated with a B.E. in Artificial Intelligence and Machine Learning from the University of Mumbai and am actively working on cutting-edge projects in the AI/ML space.
+## 🚀 About Me
 
-🔍 **Currently exploring:** GenAI applications in data analytics and predictive modeling  
-📍 **Location:** Mumbai, India  
-📧 **Contact:** virenraut887@gmail.com  
-📱 **Phone:** +91 84338 83373
+I'm a passionate **B.E. graduate in Artificial Intelligence and Machine Learning** from the University of Mumbai with a strong foundation in data science, machine learning, and data visualization. I love transforming raw data into actionable insights and building intelligent systems that solve real-world problems.
 
-## 🚀 What I Do
+- 🌍 Based in **Mumbai, India**
+- 💼 Open to opportunities in **Data Science**, **Machine Learning**, and **AI Engineering**
+- 🌱 Currently expanding my expertise in **Deep Learning** and **Cloud Technologies**
+- 📫 Reach me at: **virenraut887@gmail.com**
+- 🔗 Portfolio: [virenrautportfolio.lovable.app](https://virenrautportfolio.lovable.app)
 
-- **Data Analytics & Visualization**: Creating insightful dashboards and performing exploratory data analysis
-- **Machine Learning**: Developing predictive models and implementing AI-driven solutions
-- **GenAI Applications**: Leveraging generative AI for data analytics and strategy development
-- **Computer Vision**: Building intelligent systems for image classification and processing
+## 💻 Technical Skills
 
-## 🛠️ Technical Skills
+### Languages & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Programming & Analytics
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Statistics](https://img.shields.io/badge/-Statistics-FF6B6B?style=flat-square&logo=datadog&logoColor=white)
+### Data Visualization & Analytics
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF69B4?style=flat-square&logo=plotly&logoColor=white)
+### Core Competencies
+- 📊 **Data Analysis**: EDA, Statistical Analysis, Data Cleaning
+- 🤖 **Machine Learning**: Supervised/Unsupervised Learning, Deep Learning, CNNs
+- 📈 **Data Visualization**: Dashboard Creation, Business Intelligence
+- 🔍 **Problem Solving**: Analytical Thinking, Pattern Recognition
 
 ## 💼 Professional Experience
 
-### Data Analyst (GenAI-focused) | Tata iQ
-*August 2025*
-- Completed AI-powered data analytics simulation for Financial Services team
-- Conducted EDA using GenAI tools for risk assessment and predictive modeling
-- Designed AI-driven collections strategy with ethical AI principles and regulatory compliance
+### 🏢 Virtual Intern - Tata iQ (via Forage)
+**August 2025** | *AI-Powered Data Analytics*
+- Conducted exploratory data analysis using GenAI tools for risk assessment and predictive modeling
+- Developed no-code predictive models for customer delinquency risk analysis
+- Designed AI-driven collections strategy with focus on ethical AI and regulatory compliance
 
-### Data Visualization Analyst | Tata Consultancy Services
-*June 2025*
-- Created comprehensive data visualizations for executive decision-making
-- Prepared strategic questions for senior leadership meetings
-- Developed actionable insights through effective data analysis
+### 🏢 Virtual Intern - Tata Consultancy Services (via Forage)
+**June 2025** | *Data Visualization & Business Intelligence*
+- Created impactful data visualizations for executive decision-making
+- Prepared strategic questions for client senior leadership meetings
+- Delivered actionable insights through visual data analysis
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 ### 📈 [Apple Stock Market Analysis Dashboard](https://github.com/virenraut/Apple)
 Interactive Tableau dashboard visualizing Apple's stock trends, trading volumes, and market volatility for investment analysis.
-
-**Tech Stack:** Tableau Desktop, Historical Stock Data
+- **Tech Stack**: Tableau Desktop, Financial Data Analysis
+- **Key Features**: Real-time trends, volatility analysis, volume tracking
 
 ### 📊 [Executive Summary Analysis Dashboard](https://github.com/virenraut/Exe)
-Intuitive Power BI dashboard presenting sales, profits, and regional performance metrics for data-driven decision-making.
-
-**Tech Stack:** Microsoft Power BI, Sales Dataset
+Comprehensive Power BI dashboard presenting sales, profits, and regional performance metrics for executive decision-making.
+- **Tech Stack**: Microsoft Power BI, Business Intelligence
+- **Key Features**: Sales analytics, profit tracking, regional insights
 
 ### 🍎 [Fruit and Vegetable Maturity Detection](https://github.com/virenraut/Fruit)
-Intelligent system using deep learning and computer vision to classify produce ripeness through an easy-to-use GUI.
-
-**Tech Stack:** Python, TensorFlow/Keras, OpenCV, Tkinter, CNN
+Deep learning-based system for automated produce ripeness classification with user-friendly GUI interface.
+- **Tech Stack**: Python, TensorFlow/Keras, OpenCV, Tkinter
+- **Key Features**: CNN architecture, real-time detection, intuitive GUI
 
 ## 🏆 Achievements
 
-- 🥈 **Runner-up** in Fastest Finger First – Junior Vyro
-- 🏆 **Winner** in Treasure Hunt – Junior Vyro
+- 🥈 **Runner-up** - Fastest Finger First Competition, Junior Vyro
+- 🥇 **Winner** - Treasure Hunt Competition, Junior Vyro
+- 🎓 Active participant in multiple inter and intra-college technical events
 
 ## 📜 Certifications
 
-- Learn to Code with Python
-- Data Science Tools
-- Data Science Methodology  
-- Data Science 101
+- ✅ Learn to Code with Python
+- ✅ Data Science Tools
+- ✅ Data Science Methodology
+- ✅ Data Science 101
 
 ## 📊 GitHub Stats
 
-![Viren's GitHub stats](https://github-readme-stats.vercel.app/api?username=virenraut&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=virenraut&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virenraut&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virenraut&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on interesting projects and discuss opportunities in AI/ML and data analytics!
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virenraut)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virenraut887@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://virenrautportfolio.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virenraut)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/virenraut)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/virenraut)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](your-portfolio-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:virenraut887@gmail.com)
+</div>
 
 ---
 
-⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=virenraut&color=blue&style=flat-square" alt="Profile Views" />
+  
+  **💡 "Data is the new oil, and I'm here to refine it into insights!"**
+</div>
