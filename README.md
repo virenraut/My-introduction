@@ -1,57 +1,69 @@
-# 👋 Hi, I’m Viren Raut  
+# 👋 Hey there, I'm **Viren Raut**  
 
-🎓 **B.E. in Artificial Intelligence and Machine Learning**  
-💻 **Aspiring Cybersecurity Engineer | IT Enthusiast | AI Innovator**  
-
----
-
-### 🧠 About Me  
-I’m an AI & ML graduate passionate about integrating intelligent automation with secure system design. My focus lies in leveraging **machine learning**, **data analytics**, and **cybersecurity practices** to build resilient and scalable digital solutions.  
-
-I’m continuously exploring how **AI can enhance cybersecurity** through predictive modeling, anomaly detection, and intelligent threat response.  
+🎓 **B.E. in Artificial Intelligence & Machine Learning** | 🛡️ **Aspiring Cybersecurity & IT Professional**  
+📍 Mumbai, India  
+✉️ [virenraut887@gmail.com](mailto:virenraut887@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/virenraut) | 💻 [GitHub](https://github.com/virenraut)  
 
 ---
 
-### 🛠️ Technical Skills  
+## 🧭 About Me  
+I’m a technology enthusiast passionate about leveraging **Artificial Intelligence**, **Machine Learning**, and **Cybersecurity** to build smarter and safer digital ecosystems.  
+With a foundation in **networking, Linux systems, and security tools**, I aim to merge intelligence with defense — developing adaptive systems that learn, detect, and protect.  
 
-**Languages & Frameworks:**  
+I’m currently seeking opportunities in **Cybersecurity**, **AI-driven Security Systems**, and **IT Infrastructure**, where I can apply data-driven insights and automation to strengthen organizational security.
+
+---
+
+## 💻 Tech Stack  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Cybersecurity Tools & Technologies:**  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logoColor=white)
-
-**Other Tools:**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 🚀 Current Focus  
-- Developing projects at the intersection of **AI and Cybersecurity**  
-- Enhancing technical skills in **network defense and automation**  
-- Contributing to open-source and collaborative projects  
+## 🚀 Projects  
+
+### 🥗 [Diet Recommendation System](https://github.com/virenraut/Diet)
+A Python-based web app that generates personalized diet plans using BMI prediction models and nutritional optimization.  
+**Tech Stack:** `scikit-learn` • `pandas` • `Flask` • `Tkinter`
 
 ---
 
-### 📊 GitHub Analytics  
-
-![Viren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirenRaut&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirenRaut&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viren-raut)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+### 🍎 [Fruit and Vegetable Maturity Detection](https://github.com/virenraut/Fruit)
+An intelligent deep learning system that classifies produce ripeness and maturity using CNNs and image processing.  
+**Tech Stack:** `TensorFlow` • `Keras` • `OpenCV` • `Tkinter`
 
 ---
 
-### ⚙️ “Secure Intelligence Drives Smarter Systems.”  
+## 🧾 Certifications  
+🎓 **Cybersecurity Analyst Job Simulation – Tata Group (The Forage)**  
+🎓 **Cybersecurity Analyst Job Simulation – Deloitte Australia (The Forage)**  
+
+---
+
+## 🏆 Achievements  
+🏅 Participated in **India’s Biggest GenAI Buildathon** by *OpenAI x NxtWave*  
+🥈 **Runner-up**, *Fastest Finger First – Junior Vyro*  
+🥇 **Winner**, *Treasure Hunt – Junior Vyro*
+
+---
+
+## 📊 GitHub Stats  
+
+![Viren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virenraut&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virenraut&layout=compact&theme=tokyonight&hide_border=true)  
+
+---
+
+## 🎯 Career Objective  
+To contribute to the IT and cybersecurity domain by integrating **AI-driven intelligence** with **defensive architectures**, enhancing digital resilience through automation and innovation.  
+
+---
+
+⭐ *“Security through intelligence, innovation through curiosity.”*
